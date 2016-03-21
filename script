@@ -1,0 +1,17 @@
+circle
+250 250 200
+circle
+325 175 50
+circle
+175 175 50
+circle
+325 175 10
+circle
+175 175 10
+hermite
+350 350 350 450 150 350 150 200
+bezier
+300 250 350 450 200 250 200 250
+save
+pic.png
+quit
